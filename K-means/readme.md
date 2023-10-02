@@ -1,1 +1,1 @@
-Ejercicio de K-means y método del codo
+Ejercicios de K-means y método del codo
