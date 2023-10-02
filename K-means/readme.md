@@ -1,1 +1,1 @@
-Ejercicios de K-means y método del codo
+Ejercicios sobre el método de aprendizaje K-means
