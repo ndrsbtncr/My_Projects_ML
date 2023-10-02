@@ -1,1 +1,1 @@
-Datos usados en escalado de los datos
+Datos usados en preprocesamiento de los datos
