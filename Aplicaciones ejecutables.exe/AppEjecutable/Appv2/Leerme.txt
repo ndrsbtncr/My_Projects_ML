@@ -1,0 +1,5 @@
+1. Pararme en la ruta donde tengo el archivo .py
+2. Asegurarme de tener instalado pyinstaller
+3. En la consola escribir el siguiente comando
+	pyinstaller --onefile --noconsole mi_archivo.py
+4. Ejecutar
