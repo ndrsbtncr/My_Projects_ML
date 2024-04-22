@@ -1,6 +1,6 @@
 import openai
 
-# Configura tu clave API de OpenAI
+# Configura tu clave API de OpenAI, recordar instalar version pip install openai == 0.28
 openai.api_key = "Escribe aqui el token"
 
 # Texto de entrada para generar continuación
